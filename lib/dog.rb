@@ -13,4 +13,8 @@ class Dog
     @name
   end
 
+if breed=" "
+  puts "MUtt"
+end
+
 end
